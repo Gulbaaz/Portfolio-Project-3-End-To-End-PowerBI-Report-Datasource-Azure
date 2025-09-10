@@ -53,6 +53,13 @@ These insights help businesses understand product diversity, pricing strategy, a
 
 ---
 
+## 📊 Power BI Report
+
+You can view the interactive Power BI report here:  
+➡️ [View Report](https://app.powerbi.com/links/avTJ2SonZd?ctid=2556ff83-cdc1-4957-9826-e36f43eedad5&pbi_source=linkShare)
+
+---
+
 ## 🚀 How to Run
 
 1. Import the dataset file from `01_Data/Men_Tshirt.csv` into Azure SQL.
